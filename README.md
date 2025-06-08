@@ -1,7 +1,7 @@
-# Git HTML Collaboration Demo
+# Collaborating on Git
 
 Welcome to the Git Workshop Project! 🎉  
-This repository is part of an interactive hands-on Git session conducted by [Your Company Name] for first-year students.
+This repository is part of an interactive hands-on Git session conducted by Altrium for APIIT students.
 
 ## 📚 Objective
 
