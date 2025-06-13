@@ -13,3 +13,7 @@ header, footer {
 main {
   padding: 2rem;
 }
+
+#about {
+  color: red;
+}
