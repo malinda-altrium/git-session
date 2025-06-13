@@ -14,6 +14,32 @@ main {
   padding: 2rem;
 }
 
+nav {
+  background-color: #333;
+}
+
+.navbar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  margin: 0;
+}
+
+.navbar a {
+  display: block;
+  padding: 15px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #555;
+}
+
 #contact {
   background-color: #f9f9f9;
   padding: 40px;
