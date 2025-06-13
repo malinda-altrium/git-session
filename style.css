@@ -60,3 +60,7 @@ main {
 #contact button:hover {
   background-color: #555;
 }
+
+#about {
+  color: red;
+}
